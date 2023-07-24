@@ -10,7 +10,7 @@ Abstract: Transport Mode Detection (TMD) has become a crucial part of Intelligen
 
 Please cite our paper if it helps in your research.
 
-Citation: 
+Citation BibTex: 
 ```
 @article{ALAM2023,
 title = {Federated Ensemble-Learning for Transport Mode Detection in Vehicular Edge Network},
