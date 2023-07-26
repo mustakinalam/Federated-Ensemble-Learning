@@ -12,9 +12,11 @@ Please cite our paper if it helps in your research.
 
 Citation BibTex: 
 ```
-@article{ALAM2023,
+@article{ALAM202389,
 title = {Federated Ensemble-Learning for Transport Mode Detection in Vehicular Edge Network},
 journal = {Future Generation Computer Systems},
+volume = {149},
+pages = {89-104},
 year = {2023},
 issn = {0167-739X},
 doi = {https://doi.org/10.1016/j.future.2023.07.022},
